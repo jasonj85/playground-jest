@@ -8,8 +8,9 @@
 {"accessRights":[1,2,3],"expirationTime":{"$$date":3600000},"username":"itestuser","valid":true,"tokenId":"26s1if2qbmn","_id":"Sug3xNXMVkRXSU9k"}
 {"accessRights":[1,2,3,4],"expirationTime":{"$$date":3600000},"username":"user1","valid":true,"tokenId":"trafjm9jbui","_id":"TGf4mpIld1N7QXuJ"}
 {"tokenId":"dfcqs","accessRights":[1,2,3],"expirationTime":{"$$date":1650015120979},"username":"userNameHere","valid":true,"_id":"qVA8fMaCEq58JqQ8"}
-{"accessRights":[1,2,3,4],"expirationTime":{"$$date":1597074714001},"valid":true,"tokenId":"oi3ob6s5hvg","_id":"wuQJTkvrbPqohg0M"}
 {"accessRights":[1,2,3],"expirationTime":{"$$date":3600000},"username":"itestuser","valid":true,"tokenId":"h5kcnwfq9rt","_id":"utsUUjiFr94Xq1Lp"}
-{"tokenId":"tgv6f","accessRights":[1,2,3],"expirationTime":{"$$date":1650018884634},"username":"userNameHere","valid":true,"_id":"GYBAywbV2zOdfmIa"}
-{"$$deleted":true,"_id":"GYBAywbV2zOdfmIa"}
 {"accessRights":[1,2,3,4],"expirationTime":{"$$date":3600000},"username":"user1","valid":true,"tokenId":"5yikgzxnthc","_id":"w4PEFi8DHnOhfbRr"}
+{"accessRights":[1,2,3,4],"expirationTime":{"$$date":1597074714001},"valid":true,"tokenId":"oi3ob6s5hvg","_id":"wuQJTkvrbPqohg0M"}
+{"accessRights":[1,2,3,4],"expirationTime":{"$$date":3600000},"username":"user1","valid":true,"tokenId":"tf09jtfb76c","_id":"NNp7lZDj9dFA9l62"}
+{"accessRights":[1,2,3,4],"expirationTime":{"$$date":3600000},"username":"user1","valid":true,"tokenId":"em5k1gk3kq5","_id":"cqwsAE8lh1ltFZb3"}
+{"accessRights":[1,2,3,4],"expirationTime":{"$$date":3600000},"username":"user1","valid":true,"tokenId":"dq6eq03ump7","_id":"J5HeJGv0BQz9YJJj"}
