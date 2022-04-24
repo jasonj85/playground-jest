@@ -8,7 +8,7 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:8080/users?name=user1
-Authorization: oi3ob6s5hvg
+GET http://localhost:8080/users
+Authorization: 5yikgzxnthc
 
 ###
