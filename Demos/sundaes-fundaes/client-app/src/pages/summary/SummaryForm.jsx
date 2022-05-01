@@ -26,19 +26,19 @@ export default function SummaryForm() {
       <h2>Order Summary</h2>
       <Form>
         <Form.Group className="mb-3" controlId="scoopsRadioButton">
-          <Form.Label as="h3">Scoops: £4</Form.Label>
+          <Form.Label as="h3">Scoops: £3</Form.Label>
           <Form.Check type="radio" label="3 Vanilla" />
         </Form.Group>
 
         <Form.Group className="mb-3" controlId="toppingsRadioButton">
-          <Form.Label as="h3">Toppings: £2</Form.Label>
+          <Form.Label as="h3">Toppings: £1</Form.Label>
           <Form.Check type="radio" label="Brownie chunks" />
           <Form.Check type="radio" label="Hot fudge" />
           <Form.Check type="radio" label="Pistachios" />
         </Form.Group>
 
         <Form.Group className="mb-3" controlId="totalCost">
-          <Form.Label as="h3">Total: £6</Form.Label>
+          <Form.Label as="h3">Total: £4</Form.Label>
         </Form.Group>
 
         <Form.Group className="mb-3" controlId="termsAndConditions">
